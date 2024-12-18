@@ -27,3 +27,6 @@ Example request body:
     "paymentType": "credit",
     "cardNo": "1234123412341234"
 }
+
+github link : https://github.com/AliAlpKUREL/Assignment2PaymentSystem.git.
+youtube link: https://youtu.be/HqwjJzuEKas
