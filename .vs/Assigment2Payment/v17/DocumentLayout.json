@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alial\\source\\repos\\Assigment2Payment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2043362D-13F1-44CA-ADC8-719C058EE902}|Assigment2Payment.csproj|c:\\users\\alial\\source\\repos\\assigment2payment\\rabbitmqhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2043362D-13F1-44CA-ADC8-719C058EE902}|Assigment2Payment.csproj|solutionrelative:rabbitmqhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2043362D-13F1-44CA-ADC8-719C058EE902}|Assigment2Payment.csproj|c:\\users\\alial\\source\\repos\\assigment2payment\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2043362D-13F1-44CA-ADC8-719C058EE902}|Assigment2Payment.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2043362D-13F1-44CA-ADC8-719C058EE902}|Assigment2Payment.csproj|c:\\users\\alial\\source\\repos\\assigment2payment\\controllers\\processorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2043362D-13F1-44CA-ADC8-719C058EE902}|Assigment2Payment.csproj|solutionrelative:controllers\\processorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2043362D-13F1-44CA-ADC8-719C058EE902}|Assigment2Payment.csproj|c:\\users\\alial\\source\\repos\\assigment2payment\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2043362D-13F1-44CA-ADC8-719C058EE902}|Assigment2Payment.csproj|solutionrelative:controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\alial\\source\\repos\\Assigment2Payment\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\alial\\source\\repos\\Assigment2Payment\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "Controllers\\NotificationController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:54:15.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessorController.cs",
+              "DocumentMoniker": "C:\\Users\\alial\\source\\repos\\Assigment2Payment\\Controllers\\ProcessorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProcessorController.cs",
+              "ToolTip": "C:\\Users\\alial\\source\\repos\\Assigment2Payment\\Controllers\\ProcessorController.cs",
+              "RelativeToolTip": "Controllers\\ProcessorController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:53:29.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\alial\\source\\repos\\Assigment2Payment\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\alial\\source\\repos\\Assigment2Payment\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:52:28.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMQHelper.cs",
+              "DocumentMoniker": "C:\\Users\\alial\\source\\repos\\Assigment2Payment\\RabbitMQHelper.cs",
+              "RelativeDocumentMoniker": "RabbitMQHelper.cs",
+              "ToolTip": "C:\\Users\\alial\\source\\repos\\Assigment2Payment\\RabbitMQHelper.cs",
+              "RelativeToolTip": "RabbitMQHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:49:35.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
